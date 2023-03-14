@@ -61,7 +61,7 @@
 
 > Here is a link to the demo project.
 
-- [Live Demo Link](https://ahmed025566.github.io/To-Do-App/dist/)
+- [Live Demo Link](https://ahmed025566.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
