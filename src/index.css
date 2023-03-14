@@ -1,3 +1,108 @@
-body {
-    color : skyblue;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.heading {
+  font-size: 55px;
+  margin: 33px 0 0 33px;
+}
+
+.recent {
+  font-size: 40px;
+  position: relative;
+  top: 60px;
+  left: 100px;
+}
+
+.referesh {
+  position: relative;
+  top: 20px;
+  left: 480px;
+  background-color: #fff;
+  width: 120px;
+  height: 33px;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  box-shadow: 2px 2px  #000;
+}
+
+.scores {
+  width: 500px;
+  height: 350px;
+  overflow-y: scroll;
+  border: 2px solid black;
+  position: relative;
+  top: 60px;
+  left: 100px;
+}
+
+.Add-head {
+  font-size: 40px;
+  position: relative;
+  top: -380px;
+  left: 63%;
+}
+
+.Name {
+  position: absolute;
+  top: 260px;
+  left: 63%;
+  width: 300px;
+  height: 50px;
+  border: 2px solid black;
+  padding-left: 10px;
+  font-size: 20px;
+  color: black;
+}
+
+.Score {
+  position: absolute;
+  top: 340px;
+  left: 63%;
+  width: 300px;
+  height: 50px;
+  border: 2px solid black;
+  padding-left: 10px;
+  font-size: 20px;
+  color: black;
+}
+
+.submit {
+  position: absolute;
+  top: 410px;
+  left: 78%;
+  width: 100px;
+  height: 30px;
+  border: 2px solid black;
+  padding-left: 10px;
+  font-size: 20px;
+  color: black;
+  background-color: #fff;
+  box-shadow: 2px 2px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.gamer {
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+  padding-left: 15px;
+  font-weight: 700;
+}
+
+.gray {
+  background-color: #d3d3d3;
 }
