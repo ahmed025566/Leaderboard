@@ -59,9 +59,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Here is a link to the demo project.
-
-- [Live Demo Link](https://ahmed025566.github.io/Leaderboard/dist/)
+> - N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
