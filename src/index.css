@@ -48,8 +48,8 @@ a {
 
 .Add-head {
   font-size: 40px;
-  position: relative;
-  top: -380px;
+  position: absolute;
+  top: 170px;
   left: 63%;
 }
 

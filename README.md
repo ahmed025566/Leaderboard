@@ -51,8 +51,8 @@
 
 > In this project you can see that it has the following
 
-- It has a nice list of Scores that was added dynamicly using javascript.
-- There is a refesh button that referesh the page when you click on it. 
+- It has a function to posy the data to external API and to empty the input fields.
+- It has a nice function to get the data from the API and to add Cool styling for the elements (scores) based in the index of that element in the array.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -119,7 +119,7 @@ Using Github Pages
 
 > The following are the future features that will be added to the project.
 
-- [ ] **[It-will-fitch-data-from-external-API]**
+- [ ] **[It-will-have-some-final-touches]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
