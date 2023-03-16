@@ -119,7 +119,7 @@ Using Github Pages
 
 > The following are the future features that will be added to the project.
 
-- [ ] **[It-will-have-some-final-touches-and-cool-styling]**
+- [ ] **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
